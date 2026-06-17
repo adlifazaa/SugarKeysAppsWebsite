@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sugarkeysapps.com/sitemap.xml
